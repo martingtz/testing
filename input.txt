@@ -1,0 +1,7 @@
+100 10
+5 5
+S L O O O
+O L O O O
+O L O O O
+O L O O O
+O O O O F
